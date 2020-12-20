@@ -464,4 +464,4 @@ client.on('message', message => {
 	if (message.content === `!user-info`) {
 		message.channel.send(`Your username: ${message.author.username}\nYour ID: ${message.author.id}`);
 }});
-client.login ('Nzc3NzQyODM2MzUwNTgyNzg1.X7H3dQ.hr-MOSJX5kRzjsYBpS4JMCxA66I');
+client.login ('');
